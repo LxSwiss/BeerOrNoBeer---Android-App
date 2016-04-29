@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/menu_dimback"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/adsContainer" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeFeedback"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="50dp"
+        android:layout_below="@+id/adsContainer"
+        android:layout_centerHorizontal="true" >
+    </RelativeLayout>
+
+  
+        <!--  android:src="@drawable/blanktwo"-->  
+        
+
+    <Button
+        android:id="@+id/tvBeerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/country"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/blanktwo"
+        android:layout_marginBottom="30dp"
+        android:gravity="center"
+        android:shadowColor="#000000"
+        android:shadowDx="-2.5"
+        android:shadowDy="3"
+        android:shadowRadius="2"
+        android:text="@string/beername"
+        android:textColor="#FFFFFF"
+        android:textSize="25dip"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+    <ImageView
+        android:id="@+id/glassfull1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/llButtonHorizontal"
+        android:paddingLeft="20dp"
+        android:src="@drawable/glassfull" />
+
+    <ImageView
+        android:id="@+id/country"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_above="@+id/llButtonHorizontal"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="20dp"
+        android:src="@drawable/blanktwo" />
+
+    <LinearLayout
+        android:id="@+id/adsContainer"
+        android:layout_width="fill_parent"
+        android:layout_height="50dip" >
+
+        
+                  <com.google.ads.AdView android:layout_width="fill_parent"
+                           android:layout_height="wrap_content"
+                           android:id="@+id/adMob"
+                           ads:adUnitId="a150855c0feb1fd"
+                           ads:adSize="SMART_BANNER"/> 
+        
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llButtonHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:weightSum="10" >
+
+        <Button
+            android:id="@+id/bBeer"
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:layout_weight="5"
+            android:background="@drawable/custombeer" />
+
+        <Button
+            android:id="@+id/bNoBeer"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_weight="5"
+            android:background="@drawable/customnobeer" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/glassfull2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/llButtonHorizontal"
+        android:layout_alignParentRight="true"
+        android:paddingRight="20dp"
+        android:src="@drawable/glassfullrigth" />
+
+    <TextView
+        android:id="@+id/tvIsBeer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/relativeFeedback"
+        android:gravity="center"
+        android:shadowColor="#000000"
+        android:shadowDx="-2.5"
+        android:shadowDy="3"
+        android:shadowRadius="2"
+        android:text="@string/check"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+</RelativeLayout>

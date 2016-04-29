@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/ab_infobeerblank"
+        android:showAsAction="never"
+        android:title="@string/txthighscore"></item>
+    <item
+        android:id="@+id/item2"
+        android:icon="@drawable/ab_beerfactor"
+        android:showAsAction="never"
+        android:title="@string/ac_drinkfactor">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/df_half"
+                    android:title="@string/ac_half" />
+                <item
+                    android:id="@+id/df_normal"
+                    android:checked="true"
+                    android:title="@string/ac_normal" />
+                <item
+                    android:id="@+id/df_double"
+                    android:title="@string/ac_double" />
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/item3"
+        android:icon="@drawable/ab_infobeer"
+        android:showAsAction="always"
+        android:title="@string/ac_beer_info">
+        <menu>
+            <item android:id="@+id/item_beerone" />
+            <item android:id="@+id/item_beertwo" />
+            <item android:id="@+id/item_beerthree" />
+            <item android:id="@+id/item_beerfour" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/item4"
+        android:icon="@drawable/ab_star"
+        android:showAsAction="never"
+        android:title="@string/ac_rate"></item>
+    <item
+        android:id="@+id/item5"
+        android:icon="@drawable/ab_share"
+        android:showAsAction="never"
+        android:title="@string/ac_share"></item>
+</menu>

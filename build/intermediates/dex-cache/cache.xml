@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Alexander\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Alexander\AndroidStudioProjects\BeerOrNoBeerPort\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1_ff709fd0edd5a38b1c4fe5f8c9a45e8fe0680d82.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alexander\AndroidStudioProjects\BeerOrNoBeerPort\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Alexander\AndroidStudioProjects\BeerOrNoBeerPort\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.1.1_43ccaabc12faee0d9ed024078dc2613ac96cdd85.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alexander\AndroidStudioProjects\BeerOrNoBeerPort\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Alexander\AndroidStudioProjects\BeerOrNoBeerPort\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1_8047bd25abed0ba9e835256422482e1ea2ca1b76.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alexander\AndroidStudioProjects\BeerOrNoBeerPort\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Alexander\AndroidStudioProjects\BeerOrNoBeerPort\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.1.1_8ddd20b4ba878d7d9fe76264771489b1dd036595.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alexander\AndroidStudioProjects\BeerOrNoBeerPort\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Alexander\AndroidStudioProjects\BeerOrNoBeerPort\app\build\intermediates\pre-dexed\release\com.android.volley-volley-1.0.0_5b65e8d6cb3f3891eb7eafedd7c3fae0e86c4192.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alexander\AndroidStudioProjects\BeerOrNoBeerPort\app\libs\GoogleAdMobAdsSdk-6.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5bfe875ed53f75ef82f0ae5a6e7c3314d84a2463">
+        <dex dex="C:\Users\Alexander\AndroidStudioProjects\BeerOrNoBeerPort\app\build\intermediates\pre-dexed\release\GoogleAdMobAdsSdk-6.2.0_f94b0f0b5f88e96514c5d81b621907ddb8fe8ed4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alexander\AndroidStudioProjects\BeerOrNoBeerPort\app\libs\libGoogleAnalytics.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d0254fe638021ff2ae4fe5bd53c2937006fdab5">
+        <dex dex="C:\Users\Alexander\AndroidStudioProjects\BeerOrNoBeerPort\app\build\intermediates\pre-dexed\release\libGoogleAnalytics_d3246a7a15b0163ebfedad6746423b37b166988a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bottleopen.mp3",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\raw\\bottleopen.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\raw\\buzzer.wav",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\raw\\buzzer.wav"
+    }
+]

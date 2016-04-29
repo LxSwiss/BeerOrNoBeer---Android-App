@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/menu_dimbackblank">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <RadioGroup
+            android:id="@+id/rbBoolbeer"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:textColor="#FFFFFF">
+
+            <RadioButton
+                android:id="@+id/rbRealBrand"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/realbeer" />
+
+            <RadioButton
+                android:id="@+id/rbFakeBrand"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fakebeer" />
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/tvBrandName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="20dp"
+            android:text="@string/brandname"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/etBrandName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textNoSuggestions" />
+
+        <TextView
+            android:id="@+id/tvBrandCountry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="20dp"
+            android:text="@string/country"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/etBrandCountry"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textNoSuggestions" />
+
+
+        <TextView
+            android:id="@+id/tvBrandComment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="20dp"
+            android:text="@string/brandcomment"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/etBrandComment"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textNoSuggestions" />
+
+
+        <TextView
+            android:id="@+id/tvThanks"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:text="@string/sendbeerend"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/bSend"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/send"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</ScrollView>

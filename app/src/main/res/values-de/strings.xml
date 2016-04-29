@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BeerOrNoBeerActivity!</string>
+    <string name="txthighscore">Highscore</string>
+    <string name="abouttext">Beer Or No Beer ist ein neues Trinkspiel, welches über 1000 Biermarken und Fakemarken enthält. Das Trinkspiel wird in der Runde gespielt mit beliebig vielen Teilnehmern. Im Spiel werden verschiedene Biermarken angezeigt und der erste Teilnehmer muss nun entscheiden, ob die angezeigte Biermarke existiert oder nicht. Jeder Spieler kann beliebig oft raten und für jede richtige Antwort Bierdeckel sammeln oder das Smartphone weitergeben und der nächste Spieler muss weiter raten. Wenn ein Spieler jedoch falsch rät, muss er, je nachdem wie viele Bierdeckel angesammelt wurden, trinken und der nächste Spieler ist an der Reihe. \nProst!!</string>
+    <string name="settings">Settings</string>
+    <string name="about">Info</string>
+    <string name="app_name">Beer Or No Beer</string>
+    <string name="check"> </string>
+    <string name="title">Beer or no Beer</string>
+    <string name="beername">Beer Name</string>
+    <string name="infotoast">Klicke auf den Text um mehr  über \n die angezeigte Biermarke zu erfahren!</string>
+    <string name="right"></string>
+    <string name="wrong1">Trink</string>
+    <string name="wrong2">Ein mal Trinken!</string>
+    <string name="wrong3">mal!</string>
+    <string name="sendbeerbrand">Biermarke einsenden</string>
+    <string name="start">Spielen</string>
+    <string name="sendbeertitle">Biermarke einsenden</string>
+    <string name="realbeer">Echte Biermarke</string>
+    <string name="fakebeer">Fake Biermarke</string>
+    <string name="brandname">Name der Biermarke :</string>
+    <string name="country">Herkunft :</string>
+    <string name="sendbeerend">Die Biermarken werden auf der BeerOrNoBeer Facebook Fanpage veröffentlicht sodass ihr erfahren könnt wann die Biermarken in die Liste aufgenommen worden sind.</string>
+    <string name="send">Senden</string>
+    <string name="wantfakeones">Sei Kreativ! Fakebiere sind Erwünscht!</string>
+    <string name="ac_beer_info">Bier Info</string>
+    <string name="ac_rate">Bewerte diese App</string>
+    <string name="ac_facebook">Facebook</string>
+    <string name="t_soundon">Ton an</string>
+    <string name="t_soundoff">Ton aus</string>
+    <string name="splashtext">by Alex Schmidt</string>
+    <string name="ac_drinkfactor">Trinkfaktor</string>
+    <string name="ar_Rate">Beer or no Beer bewerten</string>
+    <string name="ar_rateApp">Helfen Sie uns das Trinkspiel Beer or no Beer zu verbessern indem Sie diese App bewerten. Ihre Unterstützung motiviert uns, weitere kostenlose Apps für Android zu entwickeln.</string>
+    <string name="ar_Later">Später erinnern</string>
+    <string name="ar_No">Nicht mehr fragen</string>
+    <string name="ac_share">Teilen</string>
+    <string name="ac_half">Halb</string>
+    <string name="ac_normal">Normal</string>
+    <string name="ac_double">Doppelt</string>
+    <string name="ar_voteback">Like die offizielle Fanpage von Beer Or No Beer um Biermarken einzusenden und Verbesserungsvorschläge zu bringen!</string>
+    <string name="ar_votetitle">Beer or no Beer Fanpage!</string>
+    <string name="ar_rateback">Fanpage besuchen!</string>
+    <string name="brandcomment">Kommentar :</string>
+    <string name="updatedatabase">Datenbank aktualisieren</string>
+
+</resources>

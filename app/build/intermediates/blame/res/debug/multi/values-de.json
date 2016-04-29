@@ -1,0 +1,782 @@
+[
+    {
+        "outputFile": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\values-de\\values-de.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 104,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 107,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 122,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 97,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 111,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 85,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 104,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 114,
+                    "endOffset": 902
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 907,
+                    "endColumn": 76,
+                    "endOffset": 979
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 984,
+                    "endColumn": 75,
+                    "endOffset": 1055
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1060,
+                    "endColumn": 81,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 110,
+                    "endOffset": 1248
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1253,
+                    "endColumn": 102,
+                    "endOffset": 1351
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1356,
+                    "endColumn": 98,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1455,
+                    "endColumn": 110,
+                    "endOffset": 1561
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1566,
+                    "endColumn": 101,
+                    "endOffset": 1663
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1668,
+                    "endColumn": 106,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endColumn": 121,
+                    "endOffset": 1892
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1897,
+                    "endColumn": 101,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1999,
+                    "endColumn": 38,
+                    "endOffset": 2033
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2038,
+                    "endColumn": 673,
+                    "endOffset": 2707
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 50,
+                        "startOffset": 173,
+                        "endColumn": 719,
+                        "endOffset": 842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2712,
+                    "endColumn": 50,
+                    "endOffset": 2758
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2763,
+                    "endColumn": 45,
+                    "endOffset": 2804
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2809,
+                    "endColumn": 54,
+                    "endOffset": 2859
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2864,
+                    "endColumn": 48,
+                    "endOffset": 2908
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2913,
+                    "endColumn": 40,
+                    "endOffset": 2949
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2954,
+                    "endColumn": 44,
+                    "endOffset": 2994
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2999,
+                    "endColumn": 53,
+                    "endOffset": 3048
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3053,
+                    "endColumn": 43,
+                    "endOffset": 3092
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3097,
+                    "endColumn": 52,
+                    "endOffset": 3145
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3150,
+                    "endColumn": 52,
+                    "endOffset": 3198
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3203,
+                    "endColumn": 51,
+                    "endOffset": 3250
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3255,
+                    "endColumn": 60,
+                    "endOffset": 3311
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3316,
+                    "endColumn": 213,
+                    "endOffset": 3525
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3530,
+                    "endColumn": 57,
+                    "endOffset": 3583
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3588,
+                    "endColumn": 153,
+                    "endOffset": 3737
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3742,
+                    "endColumn": 65,
+                    "endOffset": 3803
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3808,
+                    "endColumn": 46,
+                    "endOffset": 3850
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3855,
+                    "endColumn": 52,
+                    "endOffset": 3903
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3908,
+                    "endColumn": 58,
+                    "endOffset": 3962
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3967,
+                    "endColumn": 35,
+                    "endOffset": 3998
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4003,
+                    "endColumn": 46,
+                    "endOffset": 4045
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4050,
+                    "endColumn": 51,
+                    "endOffset": 4097
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4102,
+                    "endColumn": 68,
+                    "endOffset": 4166
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4171,
+                    "endColumn": 112,
+                    "endOffset": 4279
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4284,
+                    "endColumn": 52,
+                    "endOffset": 4332
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4337,
+                    "endColumn": 26,
+                    "endOffset": 4359
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4364,
+                    "endColumn": 39,
+                    "endOffset": 4399
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4404,
+                    "endColumn": 61,
+                    "endOffset": 4461
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4466,
+                    "endColumn": 198,
+                    "endOffset": 4660
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4665,
+                    "endColumn": 61,
+                    "endOffset": 4722
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4727,
+                    "endColumn": 45,
+                    "endOffset": 4768
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4773,
+                    "endColumn": 54,
+                    "endOffset": 4823
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4828,
+                    "endColumn": 41,
+                    "endOffset": 4865
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4870,
+                    "endColumn": 100,
+                    "endOffset": 4966
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4971,
+                    "endColumn": 46,
+                    "endOffset": 5013
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5018,
+                    "endColumn": 44,
+                    "endOffset": 5058
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5063,
+                    "endColumn": 49,
+                    "endOffset": 5108
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5113,
+                    "endColumn": 50,
+                    "endOffset": 5159
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5164,
+                    "endColumn": 66,
+                    "endOffset": 5226
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5231,
+                    "endColumn": 79,
+                    "endOffset": 5306
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5311,
+                    "endColumn": 40,
+                    "endOffset": 5347
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5352,
+                    "endColumn": 51,
+                    "endOffset": 5399
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5404,
+                    "endColumn": 39,
+                    "endOffset": 5439
+                },
+                "from": {
+                    "file": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            }
+        ]
+    }
+]

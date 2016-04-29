@@ -1,0 +1,650 @@
+[
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\morocco.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\morocco.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bkzero.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bkzero.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bulgaria.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bulgaria.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk21.gif",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk21.gif"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sweden.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\sweden.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reswrong2.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\reswrong2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bkdefault.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bkdefault.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cuba.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\cuba.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\glassfull.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\glassfull.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kenya.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\kenya.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mexico.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\mexico.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spain.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\spain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blank.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\blank.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\glassfullrigth.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\glassfullrigth.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\croatia.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\croatia.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk19.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk19.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_blankbuttonclick.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\menu_blankbuttonclick.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\germany.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\germany.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bnobeer2.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bnobeer2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\czec.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\czec.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bnobeer3how.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bnobeer3how.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poland.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\poland.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_blankbutton.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\menu_blankbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk10.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk10.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\england.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\england.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbeer3.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bbeer3.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbeer2.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bbeer2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\glassfive.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\glassfive.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\canada.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\canada.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bnobeerclick.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bnobeerclick.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\peru.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\peru.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbeerhow.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bbeerhow.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bolivia.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bolivia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mongolia.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\mongolia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_dimback.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\menu_dimback.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbeerclick.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bbeerclick.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thailand.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\thailand.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scotland.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\scotland.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk20.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk20.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bkone.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bkone.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk6.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk6.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\brazil.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\brazil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\americanflag.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\americanflag.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk3.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk3.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_wallsign.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\main_wallsign.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\venezuela.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\venezuela.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\finland.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\finland.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dominicanrepublic.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\dominicanrepublic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\glasstwo.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\glasstwo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ab_infobeer.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\ab_infobeer.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jamaica.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\jamaica.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk17.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk17.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk11.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk11.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk14.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk14.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bnobeer3click.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bnobeer3click.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_croneloogo.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\splash_croneloogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_blankbuttonhow.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\menu_blankbuttonhow.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bonbicon.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bonbicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tibet.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\tibet.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk15.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk15.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\japan.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\japan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbeer.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bbeer.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\belgium.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\belgium.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbeer3click.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bbeer3click.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\glassthree.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\glassthree.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk5.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk5.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\greece.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\greece.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\schuegabutton.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\schuegabutton.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blanktwo.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\blanktwo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\china.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\china.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guatemala.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\guatemala.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\southafrica.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\southafrica.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk13.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk13.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk16.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk16.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\india.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\india.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_dimbackblank.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\menu_dimbackblank.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk4.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk4.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iceland.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\iceland.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ireland.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\ireland.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\estland.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\estland.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk7.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk7.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\argentinia.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\argentinia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bnobeer.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bnobeer.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\speakeron.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\speakeron.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk18.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk18.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tasmain.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\tasmain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\facebookicon.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\facebookicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\glassfour.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\glassfour.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\glassempty.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\glassempty.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bnobeerhow.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bnobeerhow.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\italy.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\italy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\austria.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\austria.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\netherland.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\netherland.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\denemark.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\denemark.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk8.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk8.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk2.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\portugal.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\portugal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ab_beerfactor.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\ab_beerfactor.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\russia.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\russia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bnobeer3.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bnobeer3.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bk12.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bk12.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\corkone.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\corkone.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\resrigth2.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\resrigth2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ab_star.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\ab_star.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tahiti.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\tahiti.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\france.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\france.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ab_share.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\ab_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\schuegaglass.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\schuegaglass.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bedrock.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bedrock.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_logo2.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\menu_logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\australia.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\australia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nepal.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\nepal.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbeer3how.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bbeer3how.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\singapur.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\singapur.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\swissflag.jpg",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\swissflag.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bonbtrans.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\bonbtrans.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ab_infobeerblank.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\drawable-hdpi\\ab_infobeerblank.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    }
+]

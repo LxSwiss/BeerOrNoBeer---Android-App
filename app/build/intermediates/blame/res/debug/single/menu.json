@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\menu\\short_menu.xml",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\menu\\short_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\build\\intermediates\\res\\merged\\debug\\menu\\game_menu.xml",
+        "source": "C:\\Users\\Alexander\\AndroidStudioProjects\\BeerOrNoBeerPort\\app\\src\\main\\res\\menu\\game_menu.xml"
+    }
+]

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BeerOrNoBeerActivity!</string>
+    <string name="txthighscore">Highscore</string>
+    <string name="abouttext">Beer Or No Beer is a simple drinking game including over 1000 beer brands from all over the world and the same amount of fake brands. The game is played by passing the phone around and each person has to decide whether the displayed beer brand exists or not.\nIf somebody pushes the wrong button, he has to drink the displayed amount. If somebody pushes the right button the next person pushing the wrong button will have to drink even more! \n\nDrink Responsibly! ;)\n </string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="app_name">Beer Or No Beer</string>
+    <string name="check"> </string>
+    <string name="title">Beer or no Beer</string>
+    <string name="beername">Beer Name</string>
+    <string name="infotoast">Click on the Text to see more information \n about the displayed beer brand!</string>
+    <string name="wrong1">Drink</string>
+    <string name="wrong2">Drink one time!</string>
+    <string name="wrong3">times!</string>
+    <string name="sendbeerbrand">Send Beer Brand</string>
+    <string name="start">Start</string>
+    <string name="sendbeertitle">Send your beer brand</string>
+    <string name="realbeer">Real beer brand</string>
+    <string name="fakebeer">Fake beer brand</string>
+    <string name="brandname">Brandname :</string>
+    <string name="country">Country :</string>
+    <string name="sendbeerend">Your brands will be displayed on the BeerOrNoBeer Facebook Fanpage so I can tell you when the brands have been addet to the list.</string>
+    <string name="send">Send</string>
+    <string name="wantfakeones">Be creative! Fake brands are very appreciated!</string>
+    <string name="ac_sound">Sound</string>
+    <string name="ac_drinkfactor">Drinkfactor</string>
+    <string name="ac_beer_info">Beer Info</string>
+    <string name="ac_rate">Rate this App</string>
+    <string name="ac_facebook">Facebook</string>
+    <string name="t_soundon">Sound on</string>
+    <string name="t_soundoff">Sound off</string>
+    <string name="splashtext">by Alex Schmidt</string>
+    <string name="ar_rateApp">If you enjoy using Beer Or No Beer, please take a moment to rate it. Thanks for your support!</string>
+    <string name="ar_Rate">Rate Beer or no Beer</string>
+    <string name="ar_Later">Remind me Later</string>
+    <string name="ar_No">No, thanks</string>
+    <string name="ac_share">Share</string>
+    <string name="ac_half">Half</string>
+    <string name="ac_normal">Normal</string>
+    <string name="ac_double">Double</string>
+    <string name="ar_voteback">Join the official Beer or no Beer Facebook Fanpage to send new beerbrands and share your thoughts!</string>
+    <string name="ar_votetitle">Join the official Beer or no Beer Fanpage!</string>
+    <string name="ar_rateback">Ok!</string>
+    <string name="brandcomment">Comment :</string>
+    <string name="updatedatabase">Update database</string>
+
+
+</resources>
